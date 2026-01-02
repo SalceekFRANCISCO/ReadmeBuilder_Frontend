@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+}
+
+aside, section, section{
+    border:  2px solid;
+    height: 900px;
+    width: 300px;
+}
+
+div{
+    display: flex
+}
+
+button{
+    height: 30px;
+    width: 30px;
+}
+
+.contenedor-botones{
+    display: flex;
+    gap: 30px;
+}
