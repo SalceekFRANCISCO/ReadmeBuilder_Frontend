@@ -1,5 +1,3 @@
-# ReadmeGenerator
+# TestingPolybius
 
-una aplicacion para los pibes
-
-# Titulo
+testing of polybius project
