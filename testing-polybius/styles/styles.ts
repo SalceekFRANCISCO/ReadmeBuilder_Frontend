@@ -11,10 +11,8 @@ const styles = StyleSheet.create({
 
     title: {
         fontSize: 44,
-        marginBottom: 20,
-        fontWeight: 'bold',
         color: '#ddc9b4',
-
+        fontFamily: 'fuente'
     },
 
     subtitle: {
@@ -32,7 +30,7 @@ const styles = StyleSheet.create({
         width: 230,
         height: 60,
         backgroundColor: '#2a3d45',
-        fontFamily: 'monospace',
+        fontFamily: 'fuente',
         borderRadius: 20,
         padding: 20,
         fontWeight: "900",

@@ -5,6 +5,8 @@ export default function SplashScreen(){
     return(
         <View style={styles.container}>
 
+            <Text style={{fontFamily: 'fuente', backgroundColor: 'black', color: 'white'}}>BATMAN</Text>
+
             <Text style={styles.title}>
                 Polybius
             </Text>
