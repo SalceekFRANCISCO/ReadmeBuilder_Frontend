@@ -1,7 +1,7 @@
 # TestingPolybius
 
-testing of polybius project
+<!-- ![Icono](testing-polybius/assets/logoPolybius.png) <img src="image.png" width="20" height="10"> -->
 
-![Icono](testing-polybius/assets/logoPolybius.png)
+<img src="testing-polybius/assets/logoPolybius.png" width="200" height="200" style="border-radius: 15px;">
 
-| ![Ícono](testing-polybius\assets\logoPolybius.png) | Ícono oficial de Polybius-2026 adaptado para Expo. |
+<!-- <img src="(testing-polybius/assets/logoPolybius.png)" width="20" height="10"> -->
